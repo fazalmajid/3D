@@ -11,19 +11,20 @@ Various 3D printing projects:
 
 * `vortexbox.{scad,stl}` a box to hold my [Vortex
   Dome](https://physicshack.com/product/vortex-dome/). It has a holder to keep
-  the ball bearing foot, and just enough clearance so you can spin it in the
-  box.
+  the ball bearing foot stable, and just enough clearance so you can spin it
+  while it is still in the box.
 
   Just about fits on my Prusa i3 MK3S (you need to go into advanced settings
   and set the skirt loops option to 0, as a skirt would not fit within the
   21x25cm work area). Print using PETG, 0.2mm Quality for best results. Also
   set the top and bottom fill patterns to `Archimedean chord` or `concentric`.
-  ![Vortex dome in box](images/vortexbox.jpg)
+  ![Vortex dome in box](images/vortexbox.jpg) to avoid unseemly seams.
 
 * `zeiss_ep.stl` eyepiece cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
   ![Zeiss Victory Pocket 8x25 eyepiece cover](images/zeiss_ep.jpg)
+  
 * `zeiss_obj.stl` objective cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
