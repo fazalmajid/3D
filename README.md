@@ -3,9 +3,11 @@ Various 3D printing projects:
 
 * `ikea_holder.stl` a little clip for an IKEA NOT uplighter lamp to hold a
   laptop charging plug. First-world problem, I know.
+  ![IKEA holder](images/ikea_holder.jpg)
 
 * `penholder.stl` a simple stand to hold a fountain pen on a flat surface so it
   doesn't roll over.
+  ![Pen holder](images/pen_holder.jpg)
 
 * `vortexbox.{scad,stl}` a box to hold my [Vortex Dome](https://physicshack.com/product/vortex-dome/).
 
@@ -15,7 +17,9 @@ Various 3D printing projects:
 * `zeiss_ep.stl` eyepiece cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
+  ![Zeiss Victory Pocket 8x25 eyepiece cover](images/zeiss_ep.jpg)
 * `zeiss_obj.stl` objective cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
+  ![Zeiss Victory Pocket 8x25 objective cover](images/zeiss_obj.jpg)
   
