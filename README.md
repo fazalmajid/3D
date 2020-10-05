@@ -9,7 +9,10 @@ Various 3D printing projects:
   doesn't roll over.
   ![Pen holder](images/pen_holder.jpg)
 
-* `vortexbox.{scad,stl}` a box to hold my [Vortex Dome](https://physicshack.com/product/vortex-dome/).
+* `vortexbox.{scad,stl}` a box to hold my [Vortex
+  Dome](https://physicshack.com/product/vortex-dome/). It has a holder to keep
+  the ball bearing foot, and just enough clearance so you can spin it in the
+  box.
 
   Just about fits on my Prusa i3 MK3S (you need to go into advanced settings
   and set the skirt loops option to 0, as a skirt would not fit within the
