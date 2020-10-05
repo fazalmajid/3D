@@ -1,6 +1,9 @@
 # 3D
 Various 3D printing projects:
 
+* `penholder.stl` a simple stand to hold a fountain pen on a flat surface so it
+  doesn't roll over
+
 * `vortexbox.{scad,stl}` a box to hold my [Vortex Dome](https://physicshack.com/product/vortex-dome/)
 
   Just about fits on my Prusa i3 MK3S (you need to go into advanced settings
