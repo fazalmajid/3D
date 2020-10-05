@@ -13,7 +13,10 @@ Various 3D printing projects:
 
   Just about fits on my Prusa i3 MK3S (you need to go into advanced settings
   and set the skirt loops option to 0, as a skirt would not fit within the
-  21x25cm work area). Print using PETG, 0.2mm Quality for best results.
+  21x25cm work area). Print using PETG, 0.2mm Quality for best results. Also
+  set the top and bottom fill patterns to `Archimedean chord` or `concentric`.
+  ![Vortex dome in box](images/vortexbox.jpg)
+
 * `zeiss_ep.stl` eyepiece cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
