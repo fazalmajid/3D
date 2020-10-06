@@ -21,6 +21,10 @@ Various 3D printing projects:
   to avoid unseemly seams.
   ![Vortex dome in box](images/vortexbox.jpg)
 
+* `vortexlid.{scad,stl}` matching lid for the vortex dome box
+
+  Same settings as the box.
+
 * `zeiss_ep.stl` eyepiece cover for the Zeiss Victory Pocket 8x25 binoculars.
 
   Use PETG at the 0.10mm Detail setting.
