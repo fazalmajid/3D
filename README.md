@@ -9,6 +9,10 @@ Various 3D printing projects:
   doesn't roll over.
   ![Pen holder](images/pen_holder.jpg)
 
+* `powershotzoom.{scad,stl}` objective lens cap for the Canon Powershot Zoom
+  monocular/camera
+  ![Powershot Zoom lens cap](images/powershotzoom.jpg)
+
 * `vortexbox.{scad,stl}` a box to hold my [Vortex
   Dome](https://physicshack.com/product/vortex-dome/). It has a holder to keep
   the ball bearing foot stable, and just enough clearance so you can spin it
