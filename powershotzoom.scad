@@ -13,10 +13,10 @@ module superellipse(w, h, n, step) {
 
 difference() {
   linear_extrude(height=20) {
-    superellipse(50.6 + 2*0.25 + 2*2, 33.4 + 2*0.25 + 2*2, 4.2, .05);
+    superellipse(50.6 + 2*0.25 + 2*2, 33.4 + 2*0.25 + 2*2, 3.6, .05);
   }
   translate([0, 0, 2])
   linear_extrude(height=20) {
-    superellipse(50.6 + 2*0.25 - 0.7, 33.4 + 2*0.25 -0.5, 3.8, .05);
+    superellipse(50.6 + 2*0.25 - 0.7, 33.4 + 2*0.25 -0.5, 3.6, .05);
   };
 }
