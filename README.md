@@ -31,11 +31,15 @@ Various 3D printing projects:
 
 * `zeiss_ep.stl` eyepiece cover for the Zeiss Victory Pocket 8x25 binoculars.
 
+  Designed in [TinkerCAD](https://www.tinkercad.com/things/1GNnBoC0KlC)
+  
   Use PETG at the 0.10mm Detail setting.
   ![Zeiss Victory Pocket 8x25 eyepiece cover](images/zeiss_ep.jpg)
   
 * `zeiss_obj.stl` objective cover for the Zeiss Victory Pocket 8x25 binoculars.
 
+  Designed in [TinkerCAD](https://www.tinkercad.com/things/9DHsUtFmdjt)
+  
   Use PETG at the 0.10mm Detail setting.
   ![Zeiss Victory Pocket 8x25 objective cover](images/zeiss_obj.jpg)
   
